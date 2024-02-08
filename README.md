@@ -7,7 +7,7 @@ I am a 2nd-year BTech CSE student at IIT Goa. This page has some basic informati
 
 # Education
 | Academic Year | Standard | Grade | School/University               |
-|---------------|----------|-------|---------------------------------|
+|:-------------:|:--------:|:-----:|:-------------------------------:|
 | 2019 - 2020   | 10th     | 98.8% | Universal High School           |
 | 2021 - 2022   | 12th     | 95.76%| Shubham Raje Junior College     |
 | 2022 - Now    | 2nd Year | 9.9/10| IIT Goa                         |
